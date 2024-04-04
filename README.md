@@ -1,6 +1,6 @@
 # Voice RAG Chatbot
 
-This project demonstrates a Voice RAG (Retrieval-Augmented Generation) Chatbot that allows users to interact with a large language model (Mistral-7B) using voice input and receive voice responses. The chatbot retrieves relevant information from uploaded PDF documents to provide context-aware answers.
+This project demonstrates a Voice RAG (Retrieval-Augmented Generation) Chatbot that allows users to interact with a large language model (Mistral-7B) using voice input and receive voice responses. The chatbot retrieves relevant information from uploaded PDF documents to provide context-aware answers. Here’s a short video demonstrating the UI - https://www.youtube.com/watch?v=DAJgfzRsfBs
 
 ## Features
 

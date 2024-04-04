@@ -41,7 +41,7 @@ This project demonstrates a Voice RAG (Retrieval-Augmented Generation) Chatbot t
 
 ### Jupyter Notebook
 
-1. Open the Jupyter Notebook (`voice_rag_chatbot.ipynb`) and execute the code cells.
+1. Open the Jupyter Notebook (`app.ipynb`) and execute the code cells.
 2. Upload one or more PDF files using the file uploader component.
 3. Click the "Submit Audio" button and speak your question into the microphone.
 4. The chatbot will transcribe your audio input, retrieve relevant context from the uploaded PDFs, generate a response, and play the audio response.

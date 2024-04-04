@@ -1,0 +1,11 @@
+transformers
+accelerate
+bitsandbytes
+gradio
+langchain
+pypdf
+qdrant-client
+sentence-transformers
+torch
+torchaudio
+openai-whisper

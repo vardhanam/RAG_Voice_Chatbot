@@ -9,3 +9,5 @@ sentence-transformers
 torch
 torchaudio
 openai-whisper
+TTS
+flask
